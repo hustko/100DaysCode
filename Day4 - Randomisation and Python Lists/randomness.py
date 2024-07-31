@@ -10,3 +10,7 @@ num = random.randint(1,10) #randint gives num between 1 and 10 inclusive
 print(num)
 float_num = random.random() #get a random floating point betwen 0.0 to 1.0
 print(float_num)
+
+#create random float between 0 to 5
+more_float = random.random()*5
+print(more_float)
