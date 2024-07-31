@@ -8,3 +8,5 @@ print(my_module.pi)
 
 num = random.randint(1,10) #randint gives num between 1 and 10 inclusive
 print(num)
+float_num = random.random() #get a random floating point betwen 0.0 to 1.0
+print(float_num)
