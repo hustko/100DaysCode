@@ -1,6 +1,6 @@
 # 100DaysCodeofPython🐍
-##In this journey I will be doing 100 days of code using Python following Dr Angela Yu
-##I will be learning:
+## In this journey I will be doing 100 days of code using Python following Dr Angela Yu.
+## I will be learning:
 
 Python 3 - the latest version of Python
 PyCharm, Jupyter Notebook, Google Colab
